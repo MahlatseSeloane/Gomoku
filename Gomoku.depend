@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673782286 source:d:\going to git\software development - c++\gomoku\gomoku\game.cpp
+	"Game.h"
+
+1673782275 d:\going to git\software development - c++\gomoku\gomoku\game.h
+	<cstdlib>
+	<ctime>
+
+1673782377 source:d:\going to git\software development - c++\gomoku\gomoku\main.cpp
+	"Game.h"
+	<iostream>
+	<fstream>
+
